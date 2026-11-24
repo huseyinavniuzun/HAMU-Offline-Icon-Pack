@@ -22,6 +22,13 @@ Rapor veya sunum hazırlarken uygun bir ikon bulmak için sürekli farklı sitel
 - Tek bir ikonu **PNG** veya **SVG** olarak, dilerseniz koleksiyonun tamamını **ZIP** olarak indirebiliyorsunuz.
 - Uzun listelerde arama ve sayfalama için ekranı gereksiz yere yormayan bir arayüz kullanıyor.
 
+### v1.1’de neler yeni?
+
+- 21 kategoriye 42 yeni ikon eklendi. Katalog 658’den 700 ikona çıktı. Yeni ikonlar arasında müşteri yolculuğu, kapasite planlaması, bütçe aşımı ve teslimat kanıtı var.
+- **İkon biçimi** menüsünde **Katalog görünümü**, **Sade** ve **Alt simgeli** seçenekleri var. Seçilen biçim önizlemeye, kopyalamaya ve SVG, PNG, ZIP indirmelerine uygulanıyor.
+- Küçük alt simgelerin boyutu ve konumu, ana ikonla daha dengeli görünmeleri için düzenlendi.
+
+
 ### Nasıl kullanılır?
 
 1. [index.html](index.html) dosyasını indirin.
@@ -51,6 +58,13 @@ I kept finding myself searching different websites for the same kinds of icons w
 - Click an icon card or the **Copy** button to copy an image.
 - Download an individual icon as **PNG** or **SVG**, or export the collection as a **ZIP** file.
 - Navigate a large collection without having to load every icon onto the screen at once.
+
+### What’s new in v1.1?
+
+- Added 42 icons across 21 categories, bringing the total from 658 to 700. New icons include customer journey, capacity planning, budget overrun, and proof of delivery.
+- The **Icon style** menu offers **Catalog appearance**, **Plain**, and **Badged**. The selected style applies to previews, copying, and SVG, PNG, and ZIP downloads.
+- Adjusted the size and position of the badges to balance them with the main icon.
+
 
 ### Getting started
 
