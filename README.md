@@ -4,6 +4,8 @@
 
 700 ikon · 21 kategori · SVG / PNG · TR / EN · Çevrimdışı / Offline
 
+![HAMU Offline Icon Pack v1.1 arayüzü / Catalogue interface](docs/catalog-preview.png)
+
 ## Türkçe
 
 ### Nedir?
@@ -33,7 +35,9 @@ Rapor veya sunum hazırlarken uygun bir ikon bulmak için sürekli farklı sitel
 
 1. [index.html](index.html) dosyasını indirin.
 2. Dosyaya çift tıklayıp tarayıcınızda açın.
-3. Aradığınız ikonu seçin, rengini ve şeklini ayarlayın, kopyalayın veya indirin.
+3. Arama kutusuna **mağaza** yazın. Örneğin **Yeni Mağaza** ikonunu bulun.
+4. Küçük artı simgesini görmek için **Alt simgeli**, kaldırmak için **Sade** biçimini seçin.
+5. Karttaki **Kopyala** düğmesini kullanın ya da ikonu **PNG** veya **SVG** olarak indirin.
 
 Uygulamanın kendisi **tek HTML dosyasıdır**. HAMU logosu, favicon, stiller, JavaScript ve ikon çizimleri bu dosyanın içinde bulunur. README ve lisans dosyaları yalnızca proje belgeleridir.
 
@@ -70,7 +74,9 @@ I kept finding myself searching different websites for the same kinds of icons w
 
 1. Download [index.html](index.html).
 2. Open it in your browser.
-3. Find an icon, adjust its colour or shape, then copy or download it.
+3. Search for **store** and find the **New Store** icon.
+4. Choose **Badged** to show the small plus badge or **Plain** to hide it.
+5. Click **Copy** on the card or download the icon as **PNG** or **SVG**.
 
 The app is contained in **one HTML file**. The HAMU logo, favicon, styles, JavaScript, and icon artwork are embedded. The other files in the repository are documentation and licensing information.
 
